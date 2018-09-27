@@ -1,0 +1,9 @@
+﻿  WhileLoopc.c
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(42): warning C4133: '=': incompatible types - from 'const char *' to 'LPCWSTR'
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(47): warning C4133: 'function': incompatible types - from 'char [28]' to 'LPCWSTR'
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(47): warning C4133: 'function': incompatible types - from 'char [7]' to 'LPCWSTR'
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(55): warning C4133: 'function': incompatible types - from 'const char [14]' to 'LPCWSTR'
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(56): warning C4133: 'function': incompatible types - from 'char [23]' to 'LPCWSTR'
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(63): warning C4133: 'function': incompatible types - from 'char [24]' to 'LPCWSTR'
+c:\users\joey assal\desktop\while loop\while loop\whileloopc.c(63): warning C4133: 'function': incompatible types - from 'char [7]' to 'LPCWSTR'
+  while loop.vcxproj -> C:\Users\Joey Assal\Desktop\while loop\Debug\while loop.exe
